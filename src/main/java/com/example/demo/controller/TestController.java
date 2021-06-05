@@ -11,6 +11,7 @@ public class TestController {
 		System.out.println(123);
 		System.out.println("主线xiong");
 		System.out.println("解决冲突");
+		System.out.println("pull上去");
 		return string;
 	}
 }
