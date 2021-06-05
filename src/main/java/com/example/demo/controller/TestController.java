@@ -10,7 +10,7 @@ public class TestController {
 		String string ="123";
 		System.out.println(123);
 		System.out.println("主线xiong");
-		System.out.println("分支冲突");
+		System.out.println("解决冲突");
 		return string;
 	}
 }
